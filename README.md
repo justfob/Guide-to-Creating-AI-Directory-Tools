@@ -1,4 +1,4 @@
-# Guide to Creating Directory Navigation Websites
+# Guide to Creating AI Directory Tools Websites
 
 In the AI era, AI-powered navigation websites are gaining popularity. As more AI applications are deployed on the web, directory navigation sites have become increasingly valuable. Examples like [toolify.ai](https://toolify.ai) and [futuretools.io](https://futuretools.io) have achieved significant traffic and commercial success. Below, we’ve compiled nearly ten mainstream solutions for building directory websites, carefully curated for your reference.
 
