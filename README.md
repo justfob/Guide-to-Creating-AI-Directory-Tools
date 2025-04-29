@@ -38,7 +38,7 @@ In the AI era, AI-powered navigation websites are gaining popularity. As more AI
 **Demo**: [www.tap4.ai](https://www.tap4.ai)
 
 **Image**:
-![Tap4 AI Screenshot](./images/image1.png)
+![Tap4 AI Screenshot](./images/image1.jpg)
 
 ---
 
