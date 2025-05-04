@@ -40,7 +40,7 @@
 ### 资源链接
 - **演示地址**: [www.tap4.ai](https://www.tap4.ai)
 
-![Tap4 AI 界面](images/tap4-ai.png)
+![Tap4 AI 界面](images/image1.jpg)
 
 ---
 
@@ -63,7 +63,7 @@
 - **GitHub 地址**: [https://github.com/javayhu/free-directory-boilerplate](https://github.com/javayhu/free-directory-boilerplate)
 - **演示地址**: [https://free.mkdirs.com](https://free.mkdirs.com)
 
-![MkDirs 开源版界面](images/mkdirs-free.png)
+![MkDirs 开源版界面](images/image2.jpg)
 
 ### 收费版
 收费版是目前功能最完善的目录导航程序，支持 **Vercel** 一键安装，后台集成 **Sanity Studio**，并提供支付、提交、广告等功能。程序支持多项目使用且终身免费升级。
@@ -119,7 +119,7 @@
 #### 资源链接
 - **购买会员**: [https://pro.cult-ui.com](https://pro.cult-ui.com)
 
-![Cult-Directory 界面](images/cult-directory.png)
+![Cult-Directory 界面](images/image3.jpg)
 
 ---
 
@@ -156,7 +156,7 @@
 ### 资源链接
 - **模板地址**: [https://pagegen.ai/generate-template?templateId=directory-1](https://pagegen.ai/generate-template?templateId=directory-1)
 
-![Pagegen.ai 界面](images/pagegen-ai.png)
+![Pagegen.ai 界面](images/image4.jpg)
 
 ---
 
@@ -173,7 +173,7 @@
 ### 参考资源
 - **搭建教程视频**: [https://www.youtube.com/watch?v=T6FcF0rVpJo](https://www.youtube.com/watch?v=T6FcF0rVpJo)
 
-![WordPress 目录模板界面](images/wordpress-1page.png)
+![WordPress 目录模板界面](images/image5.jpg)
 
 ---
 
